@@ -1,0 +1,7 @@
+.venv
+.env
+chroma_db/
+local_clip_model/
+__pycache__/
+gallery/
+test.py
